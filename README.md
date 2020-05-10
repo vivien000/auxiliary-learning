@@ -10,3 +10,4 @@ The notebooks can be directly opened in Google Colab with the following links:
 - Notebook for the experiments on the synthetic dataset: [link](https://colab.research.google.com/github/vivien000/auxiliary-learning/blob/master/auxiliary_synthetic.ipynb)
 - Notebook to create the charts for the experiments on the synthetic dataset and the real dataset: [link](https://colab.research.google.com/github/vivien000/auxiliary-learning/blob/master/auxiliary_charts.ipynb)
 
+Additional experiments and a comprehensive paper can be found in a [related repo](https://github.com/vivien000/auxiliary-learning2).
